@@ -24,6 +24,7 @@ The parameters are as follows:
     sigma: mapping regularization parameter, default: 0.1
     miu: high level regularization parameter, default: 10
     k: kNN parameter, default: 100
+    For convenience, we let I_tr_P be the average vector of all patches for every origianl training image, and this goes for I_te_P, T_tr_P and T_te_P.
 
 The source codes are for Wikipedia dataset, which can be download via: http://www.svcl.ucsd.edu/projects/crossmodal/.
 
