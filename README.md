@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our TCSVT 2016 paper "Semi-Supervised Cross-Media Feature Learning with Unified Patch Graph Regularization", Please cite the following paper if you use our code.
 
-Yuxin Peng, Xiaohua Zhai, Yunzhen Zhao, and Xin Huang, "Semi-Supervised Cross-Media Feature Learning with Unified Patch Graph Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 26, No. 3, pp. 583-596 , Mar. 2016.
+Yuxin Peng, Xiaohua Zhai, Yunzhen Zhao, and Xin Huang, "Semi-Supervised Cross-Media Feature Learning with Unified Patch Graph Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 26, No. 3, pp. 583-596 , Mar. 2016. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=256)
 
 # Usage
 Run our script to train and test:
